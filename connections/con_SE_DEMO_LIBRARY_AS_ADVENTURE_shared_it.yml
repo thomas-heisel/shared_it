@@ -1,4 +1,4 @@
-unique_name: con_SE_DEMO_LIBRARY_AS_ADVENTURE
+unique_name: con_SE_DEMO_LIBRARY_AS_ADVENTURE_shared_it
 object_type: connection
 label: con_SE_DEMO_LIBRARY_AS_ADVENTURE
 as_connection: ck01391.us-east-2.aws.snowflakecomputing.com
